@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
+
+body{
+    background-image: url(dothraki_wallpapaer.jpg);
+    background-size: cover;
+    
+}
+
+.header-main{
+    font-family: 'Merienda One', cursive;
+    font-size: 100px;
+    margin-left:5%;
+    color:#e09a02;
+}
+
+.input-text, .output-text{
+    margin-left:10%;
+    margin-bottom:3%;
+    width:35rem;
+    height:7rem;
+    font-size: 2rem;
+}
+
+.input-button{
+    float:right;
+    margin-right:45%;
+    height:3rem;
+    width:6rem;
+    font-family: 'Meienda One', cursive;
+    font-size: 1rem;
+    
+}
